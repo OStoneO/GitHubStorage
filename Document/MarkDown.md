@@ -21,9 +21,9 @@ Markdown 语法速查表
    * 项目2
 3 其它
 图片
-![图片名称](http://gitcafe.com/image.png)
+![OW.cur](https://github.com/OStoneO/GitHubStorage/blob/master/Picture/OW.cur?raw=true)
 链接
-[链接名称](http://gitcafe.com)
+[GitHubStorage](https://github.com/OStoneO/GitHubStorage)
 引用
 > 第一行引用文字
 > 第二行引用文字
@@ -38,7 +38,7 @@ Markdown 语法速查表
   end
 ```
 表格
-  表头  | 表头
-  ------------- | -------------
- 单元格内容  | 单元格内容
- 单元格内容l  | 单元格内容
+|表头|表头|
+|-------------|-------------|
+|单元格内容|单元格内容|
+|单元格内容l|单元格内容|
